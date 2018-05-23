@@ -1,0 +1,10 @@
+from microsoft/dotnet
+
+COPY . ./MyFirstDotnetAppThroughDocker
+Workdir ./MyFirstDotnetAppThroughDocker
+Entrypoint ["dotnet","run"]
+
+
+
+
+

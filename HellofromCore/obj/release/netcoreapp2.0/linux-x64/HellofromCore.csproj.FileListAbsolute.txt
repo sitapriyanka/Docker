@@ -1,0 +1,14 @@
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/libhostpolicy.so
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/libhostfxr.so
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore.deps.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore.runtimeconfig.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore.runtimeconfig.dev.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore.dll
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/release/netcoreapp2.0/linux-x64/HellofromCore.pdb
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.csprojAssemblyReference.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.csproj.CoreCompileInputs.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.AssemblyInfoInputs.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.AssemblyInfo.cs
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.dll
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/release/netcoreapp2.0/linux-x64/HellofromCore.pdb

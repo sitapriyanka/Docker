@@ -1,0 +1,11 @@
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/Release/netcoreapp2.0/HellofromCore.deps.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/Release/netcoreapp2.0/HellofromCore.runtimeconfig.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/Release/netcoreapp2.0/HellofromCore.runtimeconfig.dev.json
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/Release/netcoreapp2.0/HellofromCore.dll
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/bin/Release/netcoreapp2.0/HellofromCore.pdb
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.csprojAssemblyReference.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.csproj.CoreCompileInputs.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.AssemblyInfoInputs.cache
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.AssemblyInfo.cs
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.dll
+/home/prasanthbalam/Desktop/priyanka/docker/HellofromCore/obj/Release/netcoreapp2.0/HellofromCore.pdb
