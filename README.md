@@ -7,9 +7,11 @@ Image URL https://hub.docker.com/r/sitapriyanka/dotnethelloworld/
 Command to build docker file.
 docker build -f <MyFirstDockerFile .
 
-command to push docker file 
+command to push docker file:
 docker tag {imageid} sitapriyanka/dotnethelloworld ( tags the given image with name sitapriyanka/dotnethelloworld)
+
 docker push sitapriyanka/helloworld (push image to docker hub)
+
 docker run sitapriyanka/helloworld (if the image is not present in local docker pulls the image from dockerhub and run it)
 
 Challeges in understanding COPY and docker build
