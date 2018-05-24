@@ -19,7 +19,7 @@ CHALLENGES IN UNDERSTSTANDING COPY AND DOCKER BUILD
 Docker can only copy files from the context. and Context is the input directory we send to docker build command.
 The docker build command builds an image from a Dockerfile and a context. The build’s context is the files at a specified location PATH. The PATH is a directory on your local filesystem.
 
-When to use dockerfile over dockercompose
+Docker-Compose:
 
 In code workflow, we add a Dockerfile for each part of my system and configure it that each part could run individually. Then we add a docker-compose.yml to bring them together and link them.
 
